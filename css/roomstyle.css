@@ -1,0 +1,32 @@
+body{
+    background-color: #f6f6f6; 
+}
+
+nav{
+   background-color: white;
+}
+
+#signOut{
+    background-color: #ececec;
+    width: 8rem;
+    height: 45px;
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    color: #ff6a8c;
+}
+
+
+#btnTheme{
+    border: none;
+    background-color: transparent;
+}
+
+.container {
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
